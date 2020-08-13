@@ -1,0 +1,4 @@
+.sidebar-dark-primary .nav-sidebar>.nav-item>.nav-link.router-link-active, .sidebar-light-primary .nav-sidebar>.nav-item>.nav-link.router-link-active{
+  color: #fff;
+  background-color: #007bff;
+}
